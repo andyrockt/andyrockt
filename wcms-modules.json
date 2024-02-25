@@ -1,7 +1,7 @@
 {
     "version": 1,
     "themes": {
-        "sky": {
+        "andyrocktcom": {
             "name": "andyrocktcom",
             "repo": "https://github.com/andyrockt/andyrockt/tree/main",
             "zip": "https://github.com/andyrockt/andyrockt/archive/master.zip",
