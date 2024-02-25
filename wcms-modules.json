@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "sky": {
+            "name": "andyrocktcom",
+            "repo": "https://github.com/andyrockt/sky/tree/master",
+            "zip": "https://github.com/andyrockt/sky/archive/master.zip",
+            "summary": "andyrockt.com Theme",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
+        }
+    }
+}
