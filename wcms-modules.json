@@ -4,7 +4,7 @@
         "andyrockt": {
             "name": "Andy",
             "repo": "https://github.com/andyrockt/andyrockt-theme/tree/master",
-            "zip": "https://github.com/andyrockt/andyrockt-theme/archive/refs/tags/andyrockt.zip",
+            "zip": "https://github.com/andyrockt/andyrockt-theme/archive/master.zip",
             "summary": "test",
             "version": "1.1.1",
             "image": "https://raw.githubusercontent.com/andyrockt/andyrockt/master/preview.jpg"
