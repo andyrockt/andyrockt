@@ -39,7 +39,7 @@
 
 
 <!-- Theme CSS -->
-<link rel="stylesheet" rel="preload" as="style" href="<?= $Wcms->asset('css/soft-design-system.css') ?>">
+<link rel="stylesheet" rel="preload" as="style" href="<?= $Wcms->asset('css/style.css') ?>">
 
 <!-- CSS Files 
 <link id="pagestyle" href="./assets/css/soft-design-system.css?v=1.0.9" rel="stylesheet" />-->
