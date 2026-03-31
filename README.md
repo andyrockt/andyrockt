@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome 👋
+
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/andyrockt?cardType=octocat&fontFamily=Assistant&preferLogin=false&Background=DD272700)
+
+
+⚡The Android code repositories are currently not being maintained because my Google developer account has been deleted.
 
 <!--
 **andyrockt/andyrockt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
